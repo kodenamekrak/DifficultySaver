@@ -1,0 +1,18 @@
+{
+  "_QPVersion": "0.1.1",
+  "name": "Difficulty Saver",
+  "id": "Difficulty-Saver",
+  "author": "KodenameKRAK",
+  "version": "0.1.0",
+  "packageId": "com.beatgames.beatsaber",
+  "packageVersion": "1.24.0",
+  "description": "Saves diffuclty after changing",
+  "dependencies": [],
+  "modFiles": [
+    "libdifficulty-saver.so"
+  ],
+  "libraryFiles": [
+    "libbeatsaber-hook_3_10_0.so"
+  ],
+  "fileCopies": []
+}
