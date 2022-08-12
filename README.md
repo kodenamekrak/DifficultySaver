@@ -1,6 +1,6 @@
 # Difficulty Saver
 
-Saves diffuclty after changing
+Saves difficulty after changing
 
 ## Credits
 
