@@ -97,6 +97,8 @@ extern "C" void load()
 
     QuestUI::Init();
     QuestUI::Register::RegisterModSettingsViewController(modInfo, DidActivate);
+    QuestUI::Register::RegisterMainMenuModSettingsViewController(modInfo, DidActivate);
+
     getLogger().info("Installing hooks...");
     auto &logger = getLogger();
     Hooks::InstallHooks(logger);
