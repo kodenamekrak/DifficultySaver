@@ -6,7 +6,7 @@
   "version": "0.1.0",
   "packageId": "com.beatgames.beatsaber",
   "packageVersion": "1.22.0",
-  "description": "#{description}",
+  "description": "#Once upon a time someone thought of a great mod idea. That happened to be male (not me). I, the great KRAK, went on the quest to fetch all the knowledge needed to create a mind blowing mod which saves your difficulty after changing it in the blink of an eye.",
   "dependencies": [
     {
       "version": "^0.15.18",
