@@ -4,6 +4,7 @@
   "id": "Difficulty-Saver",
   "author": "KodenameKRAK",
   "version": "0.1.0",
+  "coverImage": "cover.png",
   "packageId": "com.beatgames.beatsaber",
   "packageVersion": "1.24.0",
   "description": "Once upon a time someone thought of a great mod idea. That happened to be male (not me). I, the great KRAK, went on the quest to fetch all the knowledge needed to create a mind blowing mod which saves your difficulty after changing it in the blink of an eye.",
