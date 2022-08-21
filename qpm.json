@@ -4,10 +4,10 @@
   "info": {
     "name": "Difficulty Saver",
     "id": "Difficulty-Saver",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "url": null,
     "additionalData": {
-      "overrideSoName": "libdifficulty-saver.so"
+      "overrideSoName": "libDifficulty-Saver.so"
     }
   },
   "dependencies": [
